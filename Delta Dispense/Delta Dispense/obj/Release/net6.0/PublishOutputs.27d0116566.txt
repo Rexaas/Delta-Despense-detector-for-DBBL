@@ -1,0 +1,5 @@
+C:\Users\Komuter\Desktop\DeltaDispense\Delta Dispense.exe
+C:\Users\Komuter\Desktop\DeltaDispense\Delta Dispense.dll
+C:\Users\Komuter\Desktop\DeltaDispense\Delta Dispense.deps.json
+C:\Users\Komuter\Desktop\DeltaDispense\Delta Dispense.runtimeconfig.json
+C:\Users\Komuter\Desktop\DeltaDispense\Delta Dispense.pdb
